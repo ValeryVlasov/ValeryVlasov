@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValeryVlasov
-- 👀 I’m interested in creating new and supplementing existing games.
+- 👀 I’m interested in creating new and supplementing existing games or developing any software.
 - 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on GameDev(C/C++ Developer) or iOS/Android game development.
+- 💞️ I’m looking to collaborate on C/C++ Developer position or iOS/Android game development.
 - 📫 How to reach me - valera.vlasov11@mail.ru, @vlasov_v19 - telegram
 
 <!---
