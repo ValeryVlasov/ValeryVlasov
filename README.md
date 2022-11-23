@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ValeryVlasov
+- 👋 Hi, I’m @ValeriyVlasov
 - 👀 I’m interested in creating new and supplementing existing games or developing any software.
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on C/C++ Developer position or iOS/Android game development.
