@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ValeriyVlasov
+- 👋 Hi, I’m @ValeryVlasov
 - 👀 I’m interested in backend developing using C++ or Go languages.
 - 🌱 I’m currently learning C++ and Go
 - 💞️ I’m looking to collaborate on C++ Developer position or Go Backend Developer.
